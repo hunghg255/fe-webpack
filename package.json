@@ -9,23 +9,23 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@babel/core": "^7.15.8",
-    "@babel/preset-env": "^7.15.8",
-    "babel-loader": "^8.2.2",
-    "copy-webpack-plugin": "^6.4.1",
-    "css-loader": "^5.2.7",
-    "dotenv-webpack": "^7.0.3",
-    "html-webpack-plugin": "^4.5.2",
-    "mini-css-extract-plugin": "^0.9.0",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^9.0.3",
-    "style-loader": "^2.0.0",
-    "url-loader": "^4.1.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.2"
-  },
   "dependencies": {
-    "webpack": "^4.46.0"
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "dotenv-webpack": "^8.0.1",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.7.2",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.0",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
   }
 }
