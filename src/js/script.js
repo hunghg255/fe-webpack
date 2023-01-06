@@ -3,5 +3,5 @@ document.addEventListener(
   function () {
     alert('Hello');
   },
-  false
+  false,
 );
